@@ -1,0 +1,16 @@
+body {
+    font-family: 'Helvetica';
+    background-color: #261256;
+    font-weight: bold;
+    text-align: center;
+
+}
+.greeting {
+    font-size: 50px;
+    color: #4caf50;
+
+}
+form {
+    font-size: 20px;
+    color: #ffa501;
+}
